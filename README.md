@@ -1,2 +1,2 @@
 # NYU Tandon - MSCS Homework
-tracks cpp files for homework and algorithm/ds exercises
+Problem Solving w/ C++
