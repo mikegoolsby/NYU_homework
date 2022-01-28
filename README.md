@@ -1,2 +1,2 @@
-# NYU_homework
-tracks cpp files for homework and algorithm/ds exercises.
+# NYU Tandon - MSCS Homework
+tracks cpp files for homework and algorithm/ds exercises
